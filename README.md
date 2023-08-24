@@ -1,9 +1,11 @@
-# html-semantico
+ # html-semantico
 Lista de Mercado
 * Limão
 * Alface
-* pão
+* pão 
 * Macarrão
+* Pão doce
+* Ketchup
 
  
 Este é um método ´console.log()´ do javascript.
